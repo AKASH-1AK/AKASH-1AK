@@ -17,8 +17,8 @@
 
 ## 🎖️ Certifications & Badges
 
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/1111-aws-cloud-practitioner.png)]([https://www.credly.com/badges/YOUR-BADGE-ID/public_url](https://www.credly.com/badges/3c38f03c-f35b-4152-a201-6b266a93001d/public_url))
-[![GitHub Foundations](https://images.credly.com/size/340x340/images/2222-github-foundations.png)](https://www.credly.com/badges/7265c6d9-9e5e-4d5c-b94e-06d8285a80b3/public_url)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/3c38f03c-f35b-4152-a201-6b266a93001d/public_url)
+[![GitHub Foundations](https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/badges/7265c6d9-9e5e-4d5c-b94e-06d8285a80b3/public_url)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
