@@ -15,6 +15,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AKASH-1AK&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH-1AK&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🎖️ Certifications & Badges
+
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/1111-aws-cloud-practitioner.png)]([https://www.credly.com/badges/YOUR-BADGE-ID/public_url](https://www.credly.com/badges/3c38f03c-f35b-4152-a201-6b266a93001d/public_url))
+[![GitHub Foundations](https://images.credly.com/size/340x340/images/2222-github-foundations.png)](https://www.credly.com/badges/7265c6d9-9e5e-4d5c-b94e-06d8285a80b3/public_url)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
