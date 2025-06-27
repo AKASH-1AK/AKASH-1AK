@@ -21,6 +21,9 @@
 <a href="https://www.credly.com/badges/7265c6d9-9e5e-4d5c-b94e-06d8285a80b3/public_url" target="_blank">
   <img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="AWS Certified Cloud Practitioner" width="220" height="220">
 </a>
+[![GitHub Advanced Security](https://images.credly.com/size/220x220/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png)](https://www.credly.com/badges/ac408296-4557-469d-b652-f7c08c719486/public_url)
+
+🔐 [GitHub Advanced Security (GHAS) Certification](https://www.credly.com/badges/YOUR-CREDLY-BADGE-ID)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
